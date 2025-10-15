@@ -1,0 +1,25 @@
+{
+  "id": "9ae02b8c-04b1-4967-b838-43d5ea82ddc1",
+  "name": "AIC-SalShp-API",
+  "publisher": "BBrackett",
+  "version": "1.0.0.2",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "24.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
